@@ -1,0 +1,1 @@
+../../nvim-vscode/init.vim
